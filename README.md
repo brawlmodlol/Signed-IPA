@@ -1,2 +1,2 @@
 Get Direct Ipa Download
-Esign: 
+Esign: https://tinyurl.com/downloadESign
