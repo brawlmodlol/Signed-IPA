@@ -13,15 +13,39 @@ Status: Signed 🟢
 Country: CN
 --------------------
 TeamID: RAQA56N279
+
+
 ProfileExpired: False
+
+
 ProvisionAll: Enterprice 🟢
+
+
 Apple Push Notification Service 🟢
+
+
 Application Groups 🟢
+
+
 HealthKit 🔴 
+
+
 NFC 🔴
+
+
 Personal VPN 🔴
+
+
 User Fonts 🔴
+
+
 Game Center 🔴
+
+
 WeatherKit 🔴
+
+
 Communication Notifications 🔴
+
+
 Time-sensitive Notifications 🔴
