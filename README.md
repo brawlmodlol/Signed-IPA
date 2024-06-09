@@ -8,7 +8,7 @@ Scarlet: https://tinyurl.com/ScarletSign
 
 
 Certificate Used: iPhone Distribution: Shenzhen Casstime Technologies Co., Ltd.
-
+--------------------
 
 ExpirationTime: Tue, September 02 2025
 
@@ -17,7 +17,7 @@ Status: Signed 🟢
 
 
 Country: CN
---------------------
+
 TeamID: RAQA56N279
 
 
