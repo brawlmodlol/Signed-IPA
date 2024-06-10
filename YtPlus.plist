@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://fs3.fastupload.io/60b0e94832b27565/YTPlus(✅Signed).ipa?download_token=342e36b0eb3dd308bbdff26b10ed49f1b4d4413cd45de2fccb2714a066a95833</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1280px-YouTube_social_white_square_%282017%29.svg.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1280px-YouTube_social_white_square_%282017%29.svg.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cococloud6666d6112da04</string>
+				<key>bundle-version</key>
+				<string>19.22.6</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>YTPlus</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
