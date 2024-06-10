@@ -10,6 +10,18 @@ Scarlet: https://tinyurl.com/ScarletSign
 WhatsApp Watusi(Partially Removed Ads):  https://tinyurl.com/WhatsAppWatusiDownload
 
 
+My Apps
+--------------------
+
+
+Modded Brawl Sever By Sroyzi Brawl: https://tinyurl.com/modifiedbrawl
+
+Official App Is Brawl Stars
+
+
+
+Description: Modded Brawl Is A Version 1 Potrait Version Of Brawl Stars. Modded Brawl Has 2 Unique Brawlers Nad some modified brawlers install to find out what it is!
+
 Certificate Used: iPhone Distribution: Shenzhen Casstime Technologies Co., Ltd.
 --------------------
 
