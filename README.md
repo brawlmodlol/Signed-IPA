@@ -7,6 +7,9 @@ Esign: https://tinyurl.com/downloadESign
 Scarlet: https://tinyurl.com/ScarletSign
 
 
+WhatsApp Watusi(Partially Removed Ads):  https://tinyurl.com/WhatsAppWatusiDownload
+
+
 Certificate Used: iPhone Distribution: Shenzhen Casstime Technologies Co., Ltd.
 --------------------
 
