@@ -20,7 +20,7 @@ Official App Is Brawl Stars
 
 
 
-Description: Modded Brawl Is A Version 1 Potrait Version Of Brawl Stars. Modded Brawl Has 2 Unique Brawlers Nad some modified brawlers install to find out what it is!
+Description: Modded Brawl Is A Version 1 Potrait Version Of Brawl Stars. Modded Brawl Has 2 Unique Brawlers and modified brawlers. Install to find out what it is!
 
 Certificate Used: iPhone Distribution: Shenzhen Casstime Technologies Co., Ltd.
 --------------------
