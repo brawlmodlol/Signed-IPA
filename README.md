@@ -26,7 +26,8 @@ Official App Is Brawl Stars
 Description: Modded Brawl Is A Version 1 Potrait Version Of Brawl Stars. Modded Brawl Has 2 Unique Brawlers and modified brawlers. Install to find out what it is!
 
 
-2. Brawl Stars China Almost Everything is English: https://tinyurl.com/brawlstarschina
+2. Brawl Stars China: https://tinyurl.com/brawlstarschina
+(Note If you don't want to change your region in App Store to china use this IPA)
 
 Certificate Used: iPhone Distribution: Shenzhen Casstime Technologies Co., Ltd.
 --------------------
