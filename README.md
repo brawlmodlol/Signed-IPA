@@ -17,13 +17,16 @@ My Apps
 --------------------
 
 
-Modded Brawl Sever By Sroyzi Brawl: https://tinyurl.com/modifiedbrawl
+1. Modded Brawl Sever By Sroyzi Brawl: https://tinyurl.com/modifiedbrawl
 
 Official App Is Brawl Stars
 
 
 
 Description: Modded Brawl Is A Version 1 Potrait Version Of Brawl Stars. Modded Brawl Has 2 Unique Brawlers and modified brawlers. Install to find out what it is!
+
+
+2. Brawl Stars China Almost Everything is English: https://tinyurl.com/brawlstarschina
 
 Certificate Used: iPhone Distribution: Shenzhen Casstime Technologies Co., Ltd.
 --------------------
