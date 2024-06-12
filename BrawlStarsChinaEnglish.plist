@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://fs4.fastupload.io/14ec9111a6b27cd3/BrawlStarsChinaEnglish(✅Signed).ipa?download_token=486e247d53cd8ed60009964c643b2345ac3cf48af533f973c5543248fa37de42</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://images.sftcdn.net/images/t_app-icon-m/p/818cdf51-2d6f-4dff-84d1-2b4a4a3fbd54/1268494457/brawl-stars-qt8-logo</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://images.sftcdn.net/images/t_app-icon-m/p/818cdf51-2d6f-4dff-84d1-2b4a4a3fbd54/1268494457/brawl-stars-qt8-logo</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cococloud66697461a7b4a</string>
+				<key>bundle-version</key>
+				<string>55.100.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>荒野乱斗Modified To Be English</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
