@@ -1,6 +1,7 @@
 Get Direct Ipa Download
 
 
+⚠️Disclaimer: NULLS BRAWL HAS INAPPROPRIATE ADS DETECTED ALL BECAUSE A VVV.ECO GUY JUST WANT TI EARN MONEY! SO DOWNLOAD AT YOUR OWN RISK⚠️
 Nulls Brawl: https://shorturl.at/JEKSb
 
 
