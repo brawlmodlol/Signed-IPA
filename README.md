@@ -41,7 +41,7 @@ Certificate Used: iPhone Distribution: Shenzhen Casstime Technologies Co., Ltd.
 ExpirationTime: Tue, September 02 2025
 
 
-Status: Signed 🟢
+Status: Revoked 🔴
 
 
 Country: CN
