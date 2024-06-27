@@ -3,7 +3,7 @@ Get Direct Ipa Download
 
 ⚠️Disclaimer: NULLS BRAWL HAS INAPPROPRIATE ADS DETECTED ALL BECAUSE A VVV.ECO GUY JUST WANT TO EARN MONEY! SO DOWNLOAD AT YOUR OWN RISK⚠️
 
-Certificate 1
+Certificate 1 ❌Revoked
 
 Nulls Brawl: https://shorturl.at/JEKSb
 
@@ -34,7 +34,7 @@ First Certificate Used: iPhone Distribution: ANDHRA PRADESH CENTRE FOR FINANCIAL
 ExpirationTime: Mon, May 17 2027
 
 
-Status: Signed 🟢
+Status: Revoked 🔴
 
 
 Country: IN
