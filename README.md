@@ -27,7 +27,7 @@ Description: Modded Brawl Is A Version 1 Potrait Version Of Brawl Stars. Modded 
 2. Brawl Stars China: (NA Currently)
 (Note If you don't want to change your region in App Store to china use this IPA)
 
-Certificate Used: iPhone Distribution: ANDHRA PRADESH CENTRE FOR FINANCIAL SYSTEMS AND SERVICES
+First Certificate Used: iPhone Distribution: ANDHRA PRADESH CENTRE FOR FINANCIAL SYSTEMS AND SERVICES
 --------------------
 
 
@@ -78,6 +78,40 @@ Communication Notifications 🔴
 
 Time-sensitive Notifications 🔴
 
+Second Certificate Used: iPhone Distribution: Wuxi Zhongxin Educational Development Co., Ltd.
+--------------------
+
+ExpirationTime: Thu, June 03 2027
+
+Status: Signed 🟢
+
+Country: CN
+
+TeamID: N73GWQURJ8
+
+ProfileExpired: False
+
+ProvisionAll: Enterprice 🟢
+
+Apple Push Notification Service 🔴
+
+Application Groups 🔴
+
+HealthKit 🔴 
+
+NFC 🔴
+
+Personal VPN 🔴
+
+User Fonts 🔴
+
+Game Center 🔴
+
+WeatherKit 🔴
+
+Communication Notifications 🔴
+
+Time-sensitive Notifications 🔴
 
 Download ANDHRA PRADESH CENTRE FOR FINANCIAL SYSTEMS AND SERVICES
 --------------------
@@ -91,4 +125,4 @@ Download Wuxi Zhongxin Educational Development Co., Ltd..mobileprovision
 
 P12: Not Available
 
-Mobileprovision: 
+Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/Wuxi%20Zhongxin%20Educational%20Development%20Co.,%20Ltd..mobileprovision
