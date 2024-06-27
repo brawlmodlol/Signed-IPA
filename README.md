@@ -3,8 +3,13 @@ Get Direct Ipa Download
 
 ⚠️Disclaimer: NULLS BRAWL HAS INAPPROPRIATE ADS DETECTED ALL BECAUSE A VVV.ECO GUY JUST WANT TO EARN MONEY! SO DOWNLOAD AT YOUR OWN RISK⚠️
 
+Certificate 1
+
 Nulls Brawl: https://shorturl.at/JEKSb
 
+Certificate 2
+
+Nulls Brawl: https://tinyurl.com/Nullsbrawlcert2
 
 My Apps
 --------------------
