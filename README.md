@@ -36,6 +36,7 @@ ExpirationTime: Mon, May 17 2027
 
 Status: Revoked 🔴
 
+RevocationTime: Thu, June 27 2024 16:40:00
 
 Country: IN
 
