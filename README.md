@@ -120,7 +120,7 @@ P12 File: Not Available
 
 Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/ANDHRA_PRADESH_CENTRE_FOR_FINANCIAL_SYSTEMS_AND_SERVICES_mobileprovision
 
-Download Wuxi Zhongxin Educational Development Co., Ltd..mobileprovision
+Download Wuxi Zhongxin Educational Development Co., Ltd.
 --------------------
 
 P12: Not Available
