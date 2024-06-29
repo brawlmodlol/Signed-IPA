@@ -84,7 +84,7 @@ Second Certificate Used: iPhone Distribution: Wuxi Zhongxin Educational Developm
 
 ExpirationTime: Thu, June 03 2027
 
-Status: Signed 🟢
+Status: Revoked 🔴
 
 Country: CN
 
