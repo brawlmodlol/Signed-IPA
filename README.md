@@ -15,7 +15,7 @@ Certificate 3
 
 Nulls Brawl:
 
-Scarlet
+Scarlet: https://tinyurl.com/scarletmindsquare
 
 My Apps
 --------------------
