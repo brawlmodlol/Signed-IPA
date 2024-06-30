@@ -157,6 +157,41 @@ Communication Notifications 🔴
 
 Time-sensitive Notifications 🔴
 
+Fourth Certificate Used: iPhone Distribution: AVIATION INFORMATION AND TELECOMMUNICATIONS JSC
+--------------------
+
+ExpirationTime: Tue, May 18 2027
+
+Status: Signed 🟢
+
+Country: US
+
+TeamID: 4FC34VH6K5
+
+ProfileExpired: False
+
+ProvisionAll: Enterprice 🟢
+
+Apple Push Notification Service 🟢
+
+Application Groups 🔴
+
+HealthKit 🔴 
+
+NFC 🔴
+
+Personal VPN 🔴
+
+User Fonts 🔴
+
+Game Center 🔴
+
+WeatherKit 🔴
+
+Communication Notifications 🔴
+
+Time-sensitive Notifications 🔴
+
 Download ANDHRA PRADESH CENTRE FOR FINANCIAL SYSTEMS AND SERVICES
 --------------------
 
@@ -177,5 +212,15 @@ Download mindsquare GmbH
 P12: Not Available
 
 Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/mindsquare%20GmbH.mobileprovision
+
+
+Download AVIATION INFORMATION AND TELECOMMUNICATIONS JSC
+--------------------
+
+P12:
+
+Pass: 1
+
+Mobileprovision:
 
 *Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
