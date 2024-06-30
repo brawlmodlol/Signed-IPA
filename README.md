@@ -174,6 +174,6 @@ Download mindsquare GmbH
 
 P12: Not Available
 
-Mobileprovision:
+Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/mindsquare%20GmbH.mobileprovision
 
 *Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
