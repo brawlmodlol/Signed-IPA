@@ -120,6 +120,41 @@ Communication Notifications 🔴
 
 Time-sensitive Notifications 🔴
 
+3 Certificate Used: iPhone Distribution: mindsquare GmbH
+--------------------
+
+ExpirationTime: Fri, February 06 2026
+
+Status: Signed 🟢
+
+Country: US
+
+TeamID: KC2BZ9EX2X
+
+ProfileExpired: False
+
+ProvisionAll: Enterprice 🟢
+
+Apple Push Notification Service 🔴
+
+Application Groups 🔴
+
+HealthKit 🔴 
+
+NFC 🟢
+
+Personal VPN 🔴
+
+User Fonts 🔴
+
+Game Center 🔴
+
+WeatherKit 🔴
+
+Communication Notifications 🔴
+
+Time-sensitive Notifications 🔴
+
 Download ANDHRA PRADESH CENTRE FOR FINANCIAL SYSTEMS AND SERVICES
 --------------------
 
@@ -133,5 +168,12 @@ Download Wuxi Zhongxin Educational Development Co., Ltd.
 P12: Not Available
 
 Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/Wuxi%20Zhongxin%20Educational%20Development%20Co.,%20Ltd..mobileprovision
+
+Download mindsquare GmbH
+--------------------
+
+P12: Not Available
+
+Mobileprovision:
 
 *Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
