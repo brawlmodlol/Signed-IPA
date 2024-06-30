@@ -120,7 +120,7 @@ Communication Notifications 🔴
 
 Time-sensitive Notifications 🔴
 
-3 Certificate Used: iPhone Distribution: mindsquare GmbH
+Third Certificate Used: iPhone Distribution: mindsquare GmbH
 --------------------
 
 ExpirationTime: Fri, February 06 2026
