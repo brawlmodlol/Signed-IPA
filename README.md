@@ -96,6 +96,8 @@ ExpirationTime: Thu, June 03 2027
 
 Status: Revoked 🔴
 
+RevocationTime: Fri, June 28 2024 08:17:00
+
 Country: CN
 
 TeamID: N73GWQURJ8
