@@ -227,6 +227,6 @@ P12:
 
 Pass: 1
 
-Mobileprovision:
+Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/AVIATION%20INFORMATION%20AND%20TELECOMMUNICATIONS%20JSC_NEW.mobileprovision
 
 *Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
