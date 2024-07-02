@@ -223,9 +223,9 @@ Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/mindsquare%20
 Download AVIATION INFORMATION AND TELECOMMUNICATIONS JSC
 --------------------
 
-P12:
+P12: https://github.com/Isaac11179/Signed-IPA/raw/main/AVIATION%20INFORMATION%20AND%20TELECOMMUNICATIONS%20JSC.p12
 
-Pass: 1
+Pass: AppleP12.com
 
 Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/AVIATION%20INFORMATION%20AND%20TELECOMMUNICATIONS%20JSC_NEW.mobileprovision
 
