@@ -129,7 +129,9 @@ Third Certificate Used: iPhone Distribution: mindsquare GmbH
 
 ExpirationTime: Fri, February 06 2026
 
-Status: Signed 🟢
+Status: Revoked 🔴
+
+RevocationTime: Mon, July 01 2024 17:43:00
 
 Country: US
 
