@@ -268,4 +268,11 @@ Pass: AppleP12.com
 
 Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/AVIATION%20INFORMATION%20AND%20TELECOMMUNICATIONS%20JSC_NEW.mobileprovision
 
+Download Kimberly-Clark Corporation
+--------------------
+
+P12: Not Available
+
+Mobilprovision: https://raw.githubusercontent.com/Isaac11179/Signed-IPA/main/Kimberly-Clark%20Corporation.mobileprovision
+
 *Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
