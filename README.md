@@ -174,6 +174,8 @@ ExpirationTime: Tue, May 18 2027
 
 Status: Revoked 🔴
 
+RevocationTime: Thu, July 04 2024 02:01:00
+
 Country: US
 
 TeamID: 4FC34VH6K5
