@@ -202,6 +202,41 @@ Communication Notifications 🔴
 
 Time-sensitive Notifications 🔴
 
+Fifth Certificate Used: iPhone Distribution: Kimberly-Clark Corporation
+--------------------
+
+ExpirationTime: Sat, May 29 2027
+
+Status: Signed 🟢
+
+Country: US
+
+TeamID: TJUXZ7V49D
+
+ProfileExpired: False
+
+ProvisionAll: Enterprice 🟢
+
+Apple Push Notification Service 🔴
+
+Application Groups 🔴
+
+HealthKit 🔴 
+
+NFC 🔴
+
+Personal VPN 🔴
+
+User Fonts 🔴
+
+Game Center 🔴
+
+WeatherKit 🔴
+
+Communication Notifications 🔴
+
+Time-sensitive Notifications 🔴
+
 Download ANDHRA PRADESH CENTRE FOR FINANCIAL SYSTEMS AND SERVICES
 --------------------
 
