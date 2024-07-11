@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cloud.cocotweaks.com/file/4Hi/Pokémon_GO_0.319.0.ipa</string>
+					<string>https://cloud.cocotweaks.com/file/7iV/Spoof_0.319.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nianticlabs.pokemongo</string>
+				<string>com.nianticlabs.pokemongoo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
