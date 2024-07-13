@@ -214,7 +214,7 @@ Fifth Certificate Used: iPhone Distribution: Kimberly-Clark Corporation
 
 ExpirationTime: Sat, May 29 2027
 
-Status: Signed 🟢
+Status: Revoked 🔴
 
 Country: US
 
