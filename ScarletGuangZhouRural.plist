@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string><![CDATA[https://cloud.cocotweaks.com/file/7iX/Scarlet(Signed)_Guangzhou_Rural_Commercial_Bank_Co.,Ltd..ipa]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>url</key>
+            <string><![CDATA[https://usescarlet.com/icon.png]]></string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>url</key>
+            <string><![CDATA[https://usescarlet.com/icon.png]]></string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string><![CDATA[nt.nb.ios]]></string>
+          <key>bundle-version</key>
+          <string>1</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>Scarlet Signed - Name Would Show Up As Nulls Brawl
+          If you have nulls brawl installed uninstall nulls brawl.</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
