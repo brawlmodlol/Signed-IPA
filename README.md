@@ -244,6 +244,44 @@ Communication Notifications 🔴
 
 Time-sensitive Notifications 🔴
 
+Sixth Certificate Used: iPhone Distribution: Guangzhou Rural Commercial Bank Co.,Ltd.
+--------------------
+
+ExpirationTime: Mon, August 18 2025
+
+Status: Signed 🟢
+
+Country: US
+
+TeamID: 5W324F2C5W
+
+ProfileExpired: False
+
+ProfileName: comGutRecordProfile
+
+ProvisionAll: Enterprice 🟢
+
+Apple Push Notification Service 🟢
+
+Application Groups 🔴
+
+HealthKit 🔴 
+
+NFC 🔴
+
+Personal VPN 🔴
+
+User Fonts 🔴
+
+Game Center 🔴
+
+WeatherKit 🔴
+
+Communication Notifications 🔴
+
+Time-sensitive Notifications 🔴
+
+
 Download ANDHRA PRADESH CENTRE FOR FINANCIAL SYSTEMS AND SERVICES
 --------------------
 
