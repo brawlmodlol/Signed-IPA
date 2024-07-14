@@ -285,6 +285,42 @@ Communication Notifications 🔴
 
 Time-sensitive Notifications 🔴
 
+Seventh Certificate Used: iPhone Distribution: China CITIC Bank Corporation Limited
+--------------------
+
+ExpirationTime: Thu, October 20 2024
+
+Status: Signed 🟢
+
+Country: US
+
+TeamID: 6A9EDBEAZ4
+
+ProfileExpired: False
+
+ProfileName: com.bankofcitic.mobile
+
+ProvisionAll: Enterprice 🟢
+
+Apple Push Notification Service 🔴
+
+Application Groups 🔴
+
+HealthKit 🟢 
+
+NFC 🔴
+
+Personal VPN 🔴
+
+User Fonts 🔴
+
+Game Center 🔴
+
+WeatherKit 🔴
+
+Communication Notifications 🔴
+
+Time-sensitive Notifications 🔴
 
 Download ANDHRA PRADESH CENTRE FOR FINANCIAL SYSTEMS AND SERVICES
 --------------------
