@@ -27,12 +27,11 @@ Nulls Brawl: https://tinyurl.com/kimberlyclarknulls
 
 Certificate 6
 
-Scarlet:
-https://tinyurl.com/scarletguangzhourural
+Scarlet: https://tinyurl.com/scarletguangzhourural
 
-Certificate 7:
+Certificate 7
 
-Nulls Brawl:
+Nulls Brawl: https://tinyurl.com/nullschinacitic
 
 My Apps
 --------------------
