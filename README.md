@@ -33,6 +33,9 @@ Certificate 7
 
 Nulls Brawl: https://tinyurl.com/nullschinacitic
 
+Minecraft:
+https://tinyurl.com/minecraftchinacitic
+
 My Apps
 --------------------
 
