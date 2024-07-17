@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.brawlmod.sroyziapple</string>
 				<key>bundle-version</key>
-				<string>1.1714</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Modified Brawl Modified By BrawlMod Server By Sroyzi Brawl</string>
+				<string>Modified Brawl Modified By BrawlMod Server By Sroyzi niceBrawl</string>
 			</dict>
 		</dict>
 	</array>
