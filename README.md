@@ -36,6 +36,8 @@ Nulls Brawl: https://tinyurl.com/nullschinacitic
 Minecraft:
 https://tinyurl.com/minecraftchinacitic
 
+Spotify Premium Free: https://tinyurl.com/spotifypremiumfreeunlock
+
 My Apps
 --------------------
 
