@@ -367,7 +367,8 @@ Download China CITIC Bank Corporation Limited
 
 P12: https://github.com/Isaac11179/Signed-IPA/raw/main/China%20CITIC%20Bank%20Corporation%20Limited.p12
 
-Mobileprovision: 
+Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/China%20CITIC%20Bank%20Corporation%20Limited.mobileprovision
 
+Pass: 1
 
 *Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
