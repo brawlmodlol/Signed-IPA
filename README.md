@@ -362,4 +362,12 @@ P12: Not Available
 
 Mobilprovision: https://raw.githubusercontent.com/Isaac11179/Signed-IPA/main/Kimberly-Clark%20Corporation.mobileprovision
 
+Download China CITIC Bank Corporation Limited
+--------------------
+
+P12: https://github.com/Isaac11179/Signed-IPA/raw/main/China%20CITIC%20Bank%20Corporation%20Limited.p12
+
+Mobileprovision: 
+
+
 *Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
