@@ -40,7 +40,7 @@ My Apps
 --------------------
 
 
-1. Modded Brawl Sever By Sroyzi Brawl: (NA Currently)
+1. Modded Brawl Sever By Sroyzi Brawl: https://tinyurl.com/modifiedbrchinacitic
 
 Official App Is Brawl Stars
 
