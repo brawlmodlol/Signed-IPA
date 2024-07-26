@@ -54,8 +54,11 @@ Certificate 7
 
 Nulls Brawl: https://tinyurl.com/nullschinacitic
 
-Minecraft:
-https://tinyurl.com/minecraftchinacitic
+Minecraft: https://tinyurl.com/minecraftchinacitic
+
+Certificate 8: 
+
+Minecraft: https://tinyurl.com/Minecraftchinatelecomcert
 
 Spotify Premium Free: https://tinyurl.com/spotifypremiumfreeunlock
 
