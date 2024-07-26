@@ -392,6 +392,8 @@ P12: https://github.com/Isaac11179/Signed-IPA/raw/main/China%20CITIC%20Bank%20Co
 
 Mobileprovision: https://github.com/Isaac11179/Signed-IPA/raw/main/China%20CITIC%20Bank%20Corporation%20Limited.mobileprovision
 
+Download In Zip Instead If You Had Trouble Downloading: https://raw.githubusercontent.com/Isaac11179/Signed-IPA/main/China%20CITIC%20Bank%20Corporation%20Limited.zip
+
 Pass: 1
 
 *Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
