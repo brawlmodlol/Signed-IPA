@@ -396,4 +396,4 @@ Download In Zip Instead If You Had Trouble Downloading: https://raw.githubuserco
 
 Pass: 1
 
-*Apparently Big Sideloading Telegrams Or Discord Groups Have the source to this unknown certs But they would not share it...*
+*Apparently Big Sideloading Telegrams Or Discord Groups Have the source to pay people to sign using this unknown certs But they would not share it...*
