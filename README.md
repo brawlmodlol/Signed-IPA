@@ -6,15 +6,23 @@ Get Direct Ipa Download
 DNS (Recommended To Use Before installing to prevent Blacklist and sometimes bypass revoked certs)
 --------------------
 
-Cococloud Norm DNS: Install on Device
-Cococloud DNS 2: Install on Device (v2)
-Cococloud DNS 3: Install on Device (v3)
+Cococloud Norm DNS: https://api.cococloud-signing.online/website/dns/config/cococloud-block-revokes.mobileconfig
+
+Cococloud DNS (v2): https://api.cococloud-signing.online/website/dns/config/cococloud-block-revokes-v2.mobileconfig
+
+Cococloud DNS (v3): https://api.cococloud-signing.online/website/dns/config/cococloud-block-revokes(v3).mobileconfig
+
 Use (v2) incase your Wi-Fi is blocking DNS functionality or if the Original version isn't working.
+
 Use (v3) incase (v2) dont work
+
 Danila (VVV.ECO): https://r.oq.do/Danila.mobileconfig
-Khoindvn: Khoindvn DNS
-Jorkthepork:  Jork DNS Profile (Prevent Revoke) 
-Jorkthepork DNS2:  Jork DNS Profile (No AdBlock)  
+
+Khoindvn: https://github.com/ESign-khoindvn/ESign-Khoindvn.github.io/raw/main/Tool/khoindvn.mobileconfig
+
+Jorkthepork:  https://tinyurl.com/mrxkf5yv 
+
+Jorkthepork DNS2:  https://tinyurl.com/mvdwz64f  
 
 Certificate 1 ❌Revoked
 
