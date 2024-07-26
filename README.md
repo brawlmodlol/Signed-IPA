@@ -3,6 +3,19 @@ Get Direct Ipa Download
 
 ⚠️Disclaimer: NULLS BRAWL HAS INAPPROPRIATE ADS DETECTED ALL BECAUSE A VVV.ECO GUY JUST WANT TO EARN MONEY! SO DOWNLOAD AT YOUR OWN RISK⚠️
 
+DNS (Recommended To Use Before installing to prevent Blacklist and sometimes bypass revoked certs)
+--------------------
+
+Cococloud Norm DNS: Install on Device
+Cococloud DNS 2: Install on Device (v2)
+Cococloud DNS 3: Install on Device (v3)
+Use (v2) incase your Wi-Fi is blocking DNS functionality or if the Original version isn't working.
+Use (v3) incase (v2) dont work
+Danila (VVV.ECO): https://r.oq.do/Danila.mobileconfig
+Khoindvn: Khoindvn DNS
+Jorkthepork:  Jork DNS Profile (Prevent Revoke) 
+Jorkthepork DNS2:  Jork DNS Profile (No AdBlock)  
+
 Certificate 1 ❌Revoked
 
 Nulls Brawl: https://shorturl.at/JEKSb
