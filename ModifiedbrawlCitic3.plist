@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://link.storjshare.io/s/jvvc3ztmgr55cpqoe7cof6fbwdoq/brawlmodfiles/Modified%20Brawl_China_Citic3.ipa?download=1</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBrawlstars%2Fcomments%2F7qxj0m%2Fidea_brawl_stars_logo_as_a_player_profile_icon%2F&amp;psig=AOvVaw1rHhHb9PnJyOQlV3s5Ebvm&amp;ust=1717920287979000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBIQjRxqFwoTCPjL0_XFy4YDFQAAAAAdAAAAABAE</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.reddit.com%2Fr%2FBrawlstars%2Fcomments%2F7qxj0m%2Fidea_brawl_stars_logo_as_a_player_profile_icon%2F&amp;psig=AOvVaw1rHhHb9PnJyOQlV3s5Ebvm&amp;ust=1717920287979000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBIQjRxqFwoTCPjL0_XFy4YDFQAAAAAdAAAAABAE</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.brawlmod.sroyziapple</string>
+				<key>bundle-version</key>
+				<string>1.1714</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Modified Brawl Modified By BrawlMod Server By Sroyzi Brawl Try Link 1 or 2 If installation fails</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
