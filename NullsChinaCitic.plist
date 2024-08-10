@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.dropbox.com/scl/fi/ww2p396s9t2e8v1ls3njd/Nulls-Brawl_Citic3.ipa?rlkey=h4q7zeg288jl18tlt29ce5dtn&amp;st=d52ww8ig&amp;dl=1</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://nullsbrawl.org/wp-content/uploads/2024/04/nulls-brawl-by-nullsbrawl.org_.webp</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://nullsbrawl.org/wp-content/uploads/2024/04/nulls-brawl-by-nullsbrawl.org_.webp</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>nt.nb.ios</string>
+				<key>bundle-version</key>
+				<string>56.274</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Nulls Brawl Signed Try Nulls 1 or 2 If Installation Fails</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
