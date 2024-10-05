@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>https://cloud.nabzclan.vip/file/2Vl/826c1895f766cbe8b45faede07fd65fa_1728153000.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/main/IMG_1894.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/Isaac11179/Signed-IPA/raw/main/IMG_1063.webp</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
