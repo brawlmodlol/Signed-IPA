@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cloud.nabzclan.vip/file/2Vm/53d816e5d900b7179ee2006b77232549_1728147600.ipa</string>
+					<string>https://kku.sharemods.com/cgi-bin/dl.cgi/da5ubs3eufabibbqgrvk66fycdrozswaxhcnoxyb6ugb3boa5hmt3zy/Slides_58.279_1731549635.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://nulls.gg/assets/img/nb-icon.png</string>
+					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/79/c5/d779c5f8-7a98-dfdd-676d-c9772f43d7ed/logo_slides_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://nulls.gg/assets/img/nb-icon.png</string>
+					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/79/c5/d779c5f8-7a98-dfdd-676d-c9772f43d7ed/logo_slides_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>nt.nb.ios</string>
+				<string>com.google.Slides</string>
 				<key>bundle-version</key>
-				<string>56.274</string>
+				<string>58.279</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Nulls Brawl Signed - If Installation Fails You are blacklisted 💀</string>
+				<string>Nulls Brawl Hidden As Slides</string>
 			</dict>
 		</dict>
 	</array>
