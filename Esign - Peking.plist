@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://feather-ios.com/assets/logo-squire.webp</string>
+					<string>https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/AppIcon76x76%402x%7Eipad.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://feather-ios.com/assets/logo-squire.webp</string>
+					<string>https://raw.githubusercontent.com/brawlmodlol/Signed-IPA/refs/heads/main/AppIcon76x76%402x%7Eipad.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
