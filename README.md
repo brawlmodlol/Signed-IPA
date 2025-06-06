@@ -27,6 +27,8 @@ Jorkthepork DNS2:  https://tinyurl.com/mvdwz64f
 Direct Installs
 --------------------
 
+Get Latest Installs From **https://beacons.ai/brawlmodios**
+
 Certificate 1 ❌Revoked
 
 Nulls Brawl: https://shorturl.at/JEKSb
