@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>test.jp.ac.it-chiba.portal1</string>
+				<string>com.revoked.chiba1</string>
 				<key>bundle-version</key>
 				<string>5.0.2</string>
 				<key>kind</key>
