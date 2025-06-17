@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/811757535/85c18f46-ae71-427e-bfc9-ca1cf185bd8d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=releaseassetproduction%2F20250617%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250617T172342Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=db2f5b28b1ca37500bd525dd83db3c3384bcf509d1ec863a46edab275ae5ced1&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3DKsign_1.3_EEO1.ipa&amp;response-content-type=application%2Foctet-stream</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://private-user-images.githubusercontent.com/80683081/447515665-bd4ff1aa-d8ba-4a73-8403-3cf1279478b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAxODEyNTEsIm5iZiI6MTc1MDE4MDk1MSwicGF0aCI6Ii84MDY4MzA4MS80NDc1MTU2NjUtYmQ0ZmYxYWEtZDhiYS00YTczLTg0MDMtM2NmMTI3OTQ3OGI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE3VDE3MjIzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiYzM5OWUyYjVjN2Y1YmEzOWIyZDQzY2VkN2RmNTBjNjZjNTQ5ZTViYmVhNDA5NjNmNzAyMDUyNTk3YTUzMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6u_VPEbVoHCDGxogwjndGJ40AZMjJlOR7fh8mhDuszI</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://private-user-images.githubusercontent.com/80683081/447515665-bd4ff1aa-d8ba-4a73-8403-3cf1279478b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAxODEyNTEsIm5iZiI6MTc1MDE4MDk1MSwicGF0aCI6Ii84MDY4MzA4MS80NDc1MTU2NjUtYmQ0ZmYxYWEtZDhiYS00YTczLTg0MDMtM2NmMTI3OTQ3OGI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE3VDE3MjIzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiYzM5OWUyYjVjN2Y1YmEzOWIyZDQzY2VkN2RmNTBjNjZjNTQ5ZTViYmVhNDA5NjNmNzAyMDUyNTk3YTUzMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6u_VPEbVoHCDGxogwjndGJ40AZMjJlOR7fh8mhDuszI</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>nya.asami.ksign</string>
+				<key>bundle-version</key>
+				<string>1.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Ksign Mobileprovision 1</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
