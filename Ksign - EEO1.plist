@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/811757535/85c18f46-ae71-427e-bfc9-ca1cf185bd8d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=releaseassetproduction%2F20250617%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250617T172342Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=db2f5b28b1ca37500bd525dd83db3c3384bcf509d1ec863a46edab275ae5ced1&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3DKsign_1.3_EEO1.ipa&amp;response-content-type=application%2Foctet-stream</string>
+					<string>https://github.com/brawlmodlol/Signed-IPA/releases/download/BrawlMod/Ksign_1.3_EEO1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
