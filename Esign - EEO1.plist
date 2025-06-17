@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/811757535/076d2d52-49fa-482a-b9eb-0059c892edd5?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=releaseassetproduction%2F20250617%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250617T171431Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=591b0c16097c85e948ff15650ab64520b8adaa5b84ab5da20d57b990e21695be&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3DESign_5.0.2_EEO1.ipa&amp;response-content-type=application%2Foctet-stream</string>
+					<string>https://github.com/brawlmodlol/Signed-IPA/releases/download/BrawlMod/ESign_5.0.2_EEO1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
