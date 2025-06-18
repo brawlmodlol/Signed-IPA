@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rcodestudio.TrollInstallerX</string>
+				<string>com.Alfie.TrollInstallerX</string>
 				<key>bundle-version</key>
 				<string>1.0.3</string>
 				<key>kind</key>
