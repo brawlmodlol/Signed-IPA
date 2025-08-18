@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://web.gpubgm.com/m/iOS_Beta4.0.0-b.3_No7_4.0.3.20230_Shipping_AppStore_CEQM3_BT3_08814.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://cdn.beacons.ai/user_content/gPcUz8yTsXMAqIje0OkJpub86vf1/profile_nezusv2.png?q=1725107594.494263</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://cdn.beacons.ai/user_content/gPcUz8yTsXMAqIje0OkJpub86vf1/profile_nezusv2.png?q=1725107594.494263</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tencent.igce</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>PUBG Mobile Beta - NezusHub</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
